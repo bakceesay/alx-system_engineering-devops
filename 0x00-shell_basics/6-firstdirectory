@@ -1,2 +1,3 @@
+
 #!/bin/bash
-mkdir tmp/ touch my_first_directory
+mkdir -p /tmp/my_first_directory
