@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -apnv
+ls -apmv
