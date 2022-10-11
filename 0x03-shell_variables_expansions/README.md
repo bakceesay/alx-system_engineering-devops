@@ -5,3 +5,4 @@ Task six a script that creates a new local variable
 Task seven a script that creates a new global variable
 Task eight a script that prints addition of two variables
 Task ten a script that displays the result of BREATH to the power LOVE
+Task eleven a script that converts a number from base 2 to base 10
