@@ -48,7 +48,7 @@ frontend  beta-scribbles.tech-https-frontend
 
 backend beta-scribbles.tech-backend
         balance roundrobin
-        server 914-web-01 34.138.32.248:80 check
-        server 914-web-02 3.226.74.205:80 check
+        server 168721-web-01 54.160.89.144:80 check
+        server 168721-web-02 100.26.225.228:80 check
 # end of parameters
 
